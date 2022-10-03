@@ -18,3 +18,5 @@ type contract.csv - тип списания у пользователей, гд�
 submission.csv — пример файла для отправки. \
 \
 **Метрика**: recall по столбцу blocked.
+\
+[download data](https://drive.google.com/file/d/1YLZWzBVhoPTBdZveEdwmMtXhRxXcqnxo/view?usp=sharing)
